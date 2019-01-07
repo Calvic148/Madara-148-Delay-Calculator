@@ -22,8 +22,6 @@ public class DelayCalcmain {
 
                     System.out.println("please make a choice");
 
-
-
                      }
 
                     else if ("quit".equals(bpm)) {
@@ -65,21 +63,13 @@ public class DelayCalcmain {
                             System.out.println("failed to parse to double DelayCalcmain Line 34");
                         }
 
-
-
-
                     }
-
-
-
 
             }
             catch (InputMismatchException e){
                 System.out.println();
                 System.out.println("please enter a whole number, a number with a decimal value or type : quit to exit");
             }
-
-
 
         }
         while(!exit);
