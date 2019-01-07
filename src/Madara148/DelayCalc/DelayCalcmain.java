@@ -48,17 +48,17 @@ public class DelayCalcmain {
                            System.out.println();                                                                                      
                            System.out.printf("%1s %10s %30s %30s","1/2  ", Notes.n2+"ms",Dotted.d2+"ms",Triplets.t2+"ms");
                            System.out.println();                                                                                      
-                           System.out.printf("%1s %10s %30s %30s","%.3d","1/4  ", Notes.n4+"ms",Dotted.d4+"ms",Triplets.t4+"ms");
+                           System.out.printf("%1s %10s %30s %30s","1/4  ", Notes.n4+"ms",Dotted.d4+"ms",Triplets.t4+"ms");
                            System.out.println();                                                                                      
-                           System.out.printf("%1s %10s %30s %30s","%.3d","1/8  ", Notes.n8+"ms",Dotted.d8+"ms",Triplets.t8+"ms");
+                           System.out.printf("%1s %10s %30s %30s","1/8  ", Notes.n8+"ms",Dotted.d8+"ms",Triplets.t8+"ms");
                            System.out.println();                                                                                      
-                           System.out.printf("%1s %10s %30s %30s","%.3d","1/16 ", Notes.n16+"ms",Dotted.d16+"ms",Triplets.t16+"ms");
+                           System.out.printf("%1s %10s %30s %30s","1/16 ", Notes.n16+"ms",Dotted.d16+"ms",Triplets.t16+"ms");
                            System.out.println();
-                           System.out.printf("%1s %10s %30s %30s","%.3d","1/32 ", Notes.n32+"ms",Dotted.d32+"ms",Triplets.t32+"ms");
+                           System.out.printf("%1s %10s %30s %30s","1/32 ", Notes.n32+"ms",Dotted.d32+"ms",Triplets.t32+"ms");
                            System.out.println();
-                           System.out.printf("%1s %10s %30s %30s","%.3d","1/64 ", Notes.n64+"ms",Dotted.d64+"ms",Triplets.t64+"ms");
+                           System.out.printf("%1s %10s %30s %30s","1/64 ", Notes.n64+"ms",Dotted.d64+"ms",Triplets.t64+"ms");
                            System.out.println();
-                           System.out.printf("%1s %10s %30s %30s","%.3d","1/128", Notes.n128+"ms",Dotted.d128+"ms",Triplets.t128+"ms");
+                           System.out.printf("%1s %10s %30s %30s","1/128", Notes.n128+"ms",Dotted.d128+"ms",Triplets.t128+"ms");
 
                         }
                         catch (NumberFormatException parsetodouble34) {
